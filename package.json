@@ -1,0 +1,19 @@
+{
+  "name": "simulate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alexsokolianskiy/avr-simulate.git"
+  },
+  "author": "o.sokolianskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexsokolianskiy/avr-simulate/issues"
+  },
+  "homepage": "https://github.com/alexsokolianskiy/avr-simulate#readme"
+}
